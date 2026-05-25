@@ -68,11 +68,11 @@
 
 <a href="https://github.com/devxb/gitanimals">
 <img
-  src="https://render.gitanimals.org/farms/KYH-code"
+  src="https://render.gitanimals.org/farms/yunhye0n"
   width="600"
   height="300"
 />
 </a>
 
-![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KYH-code)
-[![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KYH-code)](https://git.io/streak-stats)
+<!-- ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhye0n) -->
+[![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunhye0n)](https://git.io/streak-stats)
