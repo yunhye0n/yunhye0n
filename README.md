@@ -6,7 +6,7 @@
 
 ---
 #### 📞 How to contact 
-- [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunhyeon._.05/)](https://www.instagram.com/yunhyeon._.05/) 
+- [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yunhye0n/)](https://www.instagram.com/yunhyeon._.05/) 
 - [![Notion Badge](https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black&link=https://easy-dodo-bf0.notion.site/KYH-Portfolio-b5d1f9d8d88d4f029c65120123782496)](https://easy-dodo-bf0.notion.site/KYH-Portfolio-b5d1f9d8d88d4f029c65120123782496) 
 - ![Discord Badge](https://img.shields.io/badge/yunhye0n-5865F2?style=flat-square&logo=discord&logoColor=white) 
 - [![Gmail Badge](https://img.shields.io/badge/kyhofficial05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kyhofficial05@gmail.com)
