@@ -76,6 +76,3 @@
 
 <!-- ![Yun Hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunhye0n) -->
 [![Yun Hyeon's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunhye0n)](https://git.io/streak-stats)
-
-<h3>🟡 Pacman eats my daily GitHub contributions</h3>
-<img src="https://raw.githubusercontent.com/yunhye0n/yunhye0n/output/pacman-contribution-graph-dark.svg?v=1"/>
